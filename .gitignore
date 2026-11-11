@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Pytest
+.pytest_cache/
+.hypothesis/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+*.swp
